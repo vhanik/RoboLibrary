@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/RoboLibrary/static/css/main.7ff61bbb.chunk.css",
+    "main.js": "/RoboLibrary/static/js/main.9510b39d.chunk.js",
+    "main.js.map": "/RoboLibrary/static/js/main.9510b39d.chunk.js.map",
+    "runtime-main.js": "/RoboLibrary/static/js/runtime-main.803f4902.js",
+    "runtime-main.js.map": "/RoboLibrary/static/js/runtime-main.803f4902.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/RoboLibrary/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.5f42966a.chunk.js": "/RoboLibrary/static/js/2.5f42966a.chunk.js",
+    "static/js/2.5f42966a.chunk.js.map": "/RoboLibrary/static/js/2.5f42966a.chunk.js.map",
+    "static/js/3.dd0bc3c0.chunk.js": "/RoboLibrary/static/js/3.dd0bc3c0.chunk.js",
+    "static/js/3.dd0bc3c0.chunk.js.map": "/RoboLibrary/static/js/3.dd0bc3c0.chunk.js.map",
+    "index.html": "/RoboLibrary/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/RoboLibrary/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.7ff61bbb.chunk.css.map": "/RoboLibrary/static/css/main.7ff61bbb.chunk.css.map",
+    "static/js/2.5f42966a.chunk.js.LICENSE.txt": "/RoboLibrary/static/js/2.5f42966a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.803f4902.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.5f42966a.chunk.js",
+    "static/css/main.7ff61bbb.chunk.css",
+    "static/js/main.9510b39d.chunk.js"
+  ]
+}
